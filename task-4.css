@@ -1,0 +1,22 @@
+table{
+    border-style: 1px solid;
+    height: 200px;
+    width: 500px;
+}
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+    font-size:30px;
+  }
+.ta{
+    border: 2 px solid;
+    background-color: antiquewhite;
+}
+.td{
+    border: 1px;
+    background-color: azure;
+}
+.ra{
+    border: 1px;
+    background-color: azure;
+}
